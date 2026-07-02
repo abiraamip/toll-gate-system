@@ -38,5 +38,8 @@ This project simulates the operation of an automated toll plaza barrier system. 
    - The servo then returns to 0°, closing the gate.
 3. The process repeats continuously.
 
+## 🔗 Tinkercad Simulation
+https://www.tinkercad.com/things/bESJItNtE3g-toll-gate/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=H4lRfyBSkCiKJDQaZpvKWezEBRuKvrWY9501NHLArjw
+
 ## 👩‍💻 Author
 **Abiraami P**
